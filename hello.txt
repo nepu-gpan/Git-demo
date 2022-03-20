@@ -8,6 +8,6 @@ hello c++
 hello NEPU  东北石油大学
 
 你好，中国    
-hello China  
+hello China merge test  
 今天开始学习git
 
