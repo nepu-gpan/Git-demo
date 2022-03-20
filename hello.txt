@@ -1,5 +1,5 @@
 hello python
-hello java
+hello java & Git
 hello c#
 hello jQuery
 hello javascript
@@ -7,5 +7,7 @@ hello c++
 
 hello NEPU  东北石油大学
 
-你好，中国
-hello China
+你好，中国    
+hello China  
+今天开始学习git
+
